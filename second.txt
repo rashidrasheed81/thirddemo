@@ -1,1 +1,3 @@
 second.txt smart
+
+hello new change for undo
