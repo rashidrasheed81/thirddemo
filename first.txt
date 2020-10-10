@@ -1,3 +1,5 @@
 hello world smartgit
 
 this is change in first.txt in dev branch
+
+this is change in first
