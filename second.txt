@@ -1,3 +1,5 @@
 this is second change for smart igt
 
 this is third change for master in terminal
+
+this is change in second.txt for smartgit in master
