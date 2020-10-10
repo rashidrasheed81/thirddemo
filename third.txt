@@ -5,3 +5,5 @@ this is change in third.txt in dev
 this is change in third.txt in dev for smartgit
 
 updated for devtest
+
+updated this file for smartgit in test1
