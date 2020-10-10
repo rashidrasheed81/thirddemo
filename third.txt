@@ -1,1 +1,3 @@
 hello world in thermial reset
+
+this is change in third.txt in dev
