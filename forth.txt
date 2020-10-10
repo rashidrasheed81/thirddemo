@@ -1,1 +1,3 @@
 hello world for thermial
+
+this is change in forth.txt for smartgit to rebase
